@@ -1,0 +1,9 @@
+{
+  "name": "wemo-hub",
+  "version": "0.0.1",
+  "description": "A wemo API",
+  
+  "dependencies": {
+	"upnp-controlpoint": "git://github.com/stormboy/node-upnp-controlpoint"
+  }
+}
